@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução de componente de código QR
+# Frontend Mentor - Componente de código QR
 
 ![image](https://github.com/Dayane05/Qr_Code_Desafio/assets/105259264/c9a71e9c-855c-4bca-b78c-e2dd7f00401c)
 
